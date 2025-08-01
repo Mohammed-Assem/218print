@@ -5,3 +5,4 @@
   ![3D desgin](img/printer.png)
 
   this is my BOM file: 
+  https://docs.google.com/spreadsheets/d/1YMHhHpfrs8DgpCIIZugQnNaR5hrPWCmoNuoNPDEoR1U/edit?usp=sharing
