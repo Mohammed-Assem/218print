@@ -22,7 +22,7 @@ I began designing in fusion 360 and it was my first time to use it so the progre
 
 ![frame](images/frame.png)
 
-#7/29/2025
+7/29/2025
 
 **Time Spent: 2 Hours**
 
@@ -33,7 +33,7 @@ I found that the mount bed in egypt is not avaliable with good quality and so ex
 ![end stop2](images/endstop2.png)
 ![mount bed](images/mountbed.png)
 
-#7/30/2025
+7/30/2025
 
 **Time Spent: 1.5 Hours**
 
@@ -41,7 +41,7 @@ I have made the y-axis and added to the mount bed 12 V-wheel and it connected to
 
 ![y-axis](images/y_axis.png)
 
-#7/31/2025
+7/31/2025
 
 **Time Spent: 4 Hours**
 
@@ -56,7 +56,7 @@ there is a side of plates that holds the end stop and the stepper motor that wil
 ![3d printed](images/3d_printed.png)
 ![acrlyic parts](images/acrylic.png)
 
-#8/1/2025
+8/1/2025
 
 **Time Spent: 3 Hours**
 
