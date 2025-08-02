@@ -1,6 +1,6 @@
-##Total Time Spent: 19.5 Hours
+**Total Time Spent: 19.5 Hours**
 
-#7/27/2025
+7/27/2025
 
 **Time Spent: 7 Hours**
 
@@ -14,7 +14,7 @@ Print size was set to 300×300×350 mm, and this will suit most of the applicati
 
 ![Notes](images/notes.png)
 
-#7/28/2025
+7/28/2025
 
 **Time Spent: 3 Hours**
 
