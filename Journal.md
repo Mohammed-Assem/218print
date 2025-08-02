@@ -55,7 +55,7 @@ there is a side of plates that holds the end stop and the stepper motor that wil
 ![left side](img/left_side.png)
 
 ![3d printed](img/3d_printed.png)
-![acrlyic parts](img/acrylic.png)
+![acrlyic parts](img/acrlyic.png)
 
 8/1/2025
 
