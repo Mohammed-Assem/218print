@@ -1,0 +1,51 @@
+Quantity,Component,Price(EGP),Total Price,price in usd,links local
+1,BIGTREETECH SKR MINI E3 V3.0 32 Bit Control Board,3300,3300,66,https://fluxelectronix.com/shop/bigtreetech-skr-mini-e3-v3-0-32-bit-control-board/
+1,Proximity-Sensor- LJ12A3-4-Z-BX,£120.00,£120.00,2.4,lancer
+2,Mechincal End Stop Module,£25.00,£50.00,1,Ram Electronics
+2,Fan 4040 -- 24v,£35.00,£70.00,1.4,lancer
+1,5015 Blower fan -- 24v,£60.00,£60.00,1.2,lancer 3d
+1,E3d V6 Hotend full kit,£325.00,£325.00,6.5,Flux
+1,"300x300mm Silicone Heatbed, 220Vac, 600W",900,900,18,https://fluxelectronix.com/shop/300x300mm-silicone-heatbed-220vac-600w/
+1,Power Supply SMPS 20A 24V,"£1,250.00","£1,250.00",25,flux
+1,AC Inlet power socket with fuse holder,£15.00,£15.00,0.3,Flux
+1,Power Supply cable,£30.00,£30.00,0.6,already owened
+1,zip ties 100,£25.00,£25.00,0.5,FLUX
+1,NTC 100K ohm thermistor for heated bed,£30.00,£30.00,0.6,flux
+,mechanical,,,,
+,,,,,
+5,2040 V-slot aluminium profile 34cm (Frame),300,"£1,500.00",£30.00,https://fluxelectronix.com/shop/2040-v-slot-aluminum-profile-extrusion-1m-black-anodized/
+,2  X    2040 V-slot aluminium profile 42cm (Frame),,,,
+, 1   X 2040 V-slot aluminium profile 64cm (Frame),,,,
+,2  X  2040 V-slot aluminium profile 60cm (Frame),,,,
+2.5,2020 V-slot aluminium profile 46cm (X-axis),160,£400.00,£8.00,https://www.juthour-tech.com/en/v-slot-20x20-linear-rail
+,2020 V-slot aluminium profile 68cm (Y-axis),,,,
+22,2040 aluminum profile corner bracket,20,£440.00,£8.80,https://lancer3d.com/product/corner-bracket-for-20x40/
+4,Steel flat T-joint plate,25,£100.00,£2.00,https://lancer3d.com/product/t-corner-mount-bracket/
+2,Steel 90 Degree Joining Plate |,50,£100.00,£2.00,https://fluxelectronix.com/shop/steel-90-degree-joining-plate-openbuilds/
+23, Solid V-wheel,45,"£1,035.00",£20.70,https://fluxelectronix.com/shop/delrin-v-wheel/
+3,GT2 open timing 6mm belt for the X-axis (1.5 metre),45,£135.00,£2.70,https://ampere-electronics.com/product/gt2-open-belt-6mm-wide-pu-with-steel-core-1-meter-black/
+,GT2 open timing 6mm belt for the Y-axis (1.5 metre),,,,
+90,M5 slide T_nuts,3.5,£315.00,£6.30,https://lancer3d.com/product/t-nut-2020-m5-slide/
+2,GT2 20Teeth pulley for 6mm belt bore 5mm (5mm inner),30,£60.00,£1.20,https://fluxelectronix.com/shop/20teeth-gt2-timing-belt-pulley-5mm-bore/
+3,GT2 Toothless pulley for 6mm belt bore 5mm (5mm inner),35,£105.00,£2.10,https://fluxelectronix.com/shop/toothless-gt2-idler-pulley-5mm-bore/
+4,Leveling Screw (M3*40),12.5,£50.00,£1.00,https://ampere-electronics.com/product/leveling-kit-m3-screw-spring-knob-for-3d-printer/
+5,Nema17 Stepper Motor 17HS4401S – 38mm,£450.00,"£2,250.00",45,Flux
+1,MK8 Remote Extruder Kit,105,£105.00,£2.10,https://ampere-electronics.com/product/mk8-remote-extruder-aluminum-frame-clamp-block-diy/
+2,Flexible Coupler 5*8mm,40,£80.00,£1.60,https://ampere-electronics.com/product/5x8mm-flexible-shaft-coupler/
+1,TR8x4 Acme Lead Screw With NUT – 1200mm,330,£330.00,£6.60,https://ampere-electronics.com/product/tr8x4-acme-lead-screw-2-start-2mm-pitch-4mm-lead-with-copper-nut-1200mm/
+1,TR8x8 Acme Leadscrew Copper Nut,30,£30.00,£0.60,https://fluxelectronix.com/shop/tr8x8-acme-leadscrew-copper-nut/
+10,M5 Sliding Tee Nut For 2020 Aluminum Profile,3,£30.00,£0.60,https://ampere-electronics.com/product/m5-sliding-tee-nut-for-2020-profile/
+1,M3x10mm screw ,10,£10.00,£0.20,https://www.juthour-tech.com/en/3x10mm-phillips-flat-head-machine-screws-pack-50
+1,M3x15mm screw ,35,£35.00,£0.70,https://www.juthour-tech.com/en/m3x15mm-high-tensile-socket-countersunk-screws-pack-50
+1,M3 20mm screw,35,£35.00,£0.70,https://www.juthour-tech.com/en/m3x20mm-high-tensile-socket-countersunk-screws-pack-50
+1,M3 25mm,56,£56.00,£1.12,https://www.juthour-tech.com/en/m3x25mm-high-tensile-socket-countersunk-screws-pack-50
+1,M5--10mm flat head screw low profile,35,£35.00,£0.70,https://www.juthour-tech.com/en/5x10mm-phillips-flat-head-machine-screws-pack-50
+1,M5--12mm or 15mm flat head screw low profile,22,£22.00,£0.44,https://www.juthour-tech.com/en/low-profile-screws-m5x12mm-50-pack
+12,6mm M5 Ecentric spacer for V-wheels,5,£60.00,£1.20,https://ampere-electronics.com/product/aluminum-spacer-5-1x10x6mm/
+10,3mm M5 spacer,3,£30.00,£0.60,https://ampere-electronics.com/product/aluminum-spacer-5-1x10x3mm/
+2,6mm M5 spacer,5,£10.00,£0.20,https://ampere-electronics.com/product/aluminum-spacer-5-1x10x6mm/
+20,9mm M5 spacer,7,£140.00,£2.80,https://ampere-electronics.com/product/aluminum-spacer-5-1x10x9mm/
+350,3d printing the gram of printing costs 4 EGP,4,"£1,400.00",£28.00,
+1,1/4 acrlyic sheet,625,£625.00,£12.50,
+,,,,,
+total,,8641,"£15,698.00",313.96,
