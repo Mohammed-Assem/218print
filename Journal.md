@@ -1,5 +1,7 @@
 ##Total Time Spent: 19.5 Hours
+
 #7/27/2025
+
 **Time Spent: 7 Hours**
 As an introduction to both hardware and 3D printing, the initial step was to consider the Different 3D printers. Comparing the Delta, CoreXY, and bed slinger design, I opted for the bed slinger due to it being easy and because it's safe and easy as an entry construction.
 
