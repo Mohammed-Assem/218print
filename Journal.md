@@ -24,7 +24,7 @@ I began designing in fusion 360 and it was my first time to use it so the progre
 
 7/29/2025
 
-**Time Spent: 2 Hours**
+**Time Spent: 1 Hours**
 
 I designed a custom mechanical endstop triggered by the linear rail carriage, I designed two different ones one for x-axis to control the print head and another one to the y axis for the bed mount.
 I found that the mount bed in egypt is not avaliable with good quality and so expensive so I decided to design it and use acrylic sheet of 4 mm thickness and cut it by the cnc router.
@@ -35,7 +35,7 @@ I found that the mount bed in egypt is not avaliable with good quality and so ex
 
 7/30/2025
 
-**Time Spent: 1.5 Hours**
+**Time Spent: 2 Hours**
 
 I have made the y-axis and added to the mount bed 12 V-wheel and it connected to a belt that is move by motion of the stepper motor. I also added spacers to make the 3d printer stand on it.
 
@@ -64,5 +64,6 @@ I finalized the X-axis and print head assembly. The direct-drive extruder, Volca
 and added a support from the higher point in the extrusions to increase rigidity and durability.
 
 ![print head](images/print_head.png)
+
 ![Final products](images/printer.png)
 
