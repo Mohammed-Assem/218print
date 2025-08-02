@@ -30,9 +30,7 @@ I designed a custom mechanical endstop triggered by the linear rail carriage, I 
 I found that the mount bed in egypt is not avaliable with good quality and so expensive so I decided to design it and use acrylic sheet of 4 mm thickness and cut it by the cnc router.
 
 ![end stop1](images/endstop1.png)
-
 ![end stop2](images/endstop2.png)
-
 ![mount bed](images/mountbed.png)
 
 #7/30/2025
@@ -53,11 +51,9 @@ There are lead screw and V-slot rails for Z-motion and there is also proper alig
 there is a side of plates that holds the end stop and the stepper motor that will bring the filament to the print head. the other side just used for the motion.
 
 ![z-axis](images/z_axis.png)
-
 ![left side](images/left_side.png)
 
 ![3d printed](images/3d_printed.png)
-
 ![acrlyic parts](images/acrylic.png)
 
 #8/1/2025
@@ -68,6 +64,5 @@ I finalized the X-axis and print head assembly. The direct-drive extruder, Volca
 and added a support from the higher point in the extrusions to increase rigidity and durability.
 
 ![print head](images/print_head.png)
-
 ![Final products](images/printer.png)
 
