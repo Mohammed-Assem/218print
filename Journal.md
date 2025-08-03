@@ -1,70 +1,66 @@
+# 3D Printer Build Log  
 **Total Time Spent: 19.5 Hours**
 
-7/27/2025
+---
 
-**Time Spent: 7 Hours**
+## 7/27/2025 — Introduction & Planning  
+**Time Spent:** 7 Hours
 
-As an introduction to both hardware and 3D printing, the initial step was to consider the Different 3D printers. Comparing the Delta, CoreXY, and bed slinger design, I opted for the bed slinger due to it being easy and because it's safe and easy as an entry construction.
+As an introduction to both hardware and 3D printing, I began by exploring different 3D printer designs: Delta, CoreXY, and Bed Slinger. I chose the Bed Slinger for its simplicity, safety, and ease of construction — ideal for a first build.
 
-My first thought was low cost and high accuracy. The choice of equipping all axes (X, Y, and Z) with V-slot rails kept cost and modularity as advantages. To smoothly and continuously move the Z-axis vertically, I supported the V-slot rails with a lead screw actuator.
+My priorities were low cost and high accuracy, so I equipped all axes (X, Y, and Z) with V-slot rails, which offer both affordability and modularity. The Z-axis was driven vertically using a lead screw actuator for smooth, stable motion.
 
-In the case of the extruder, I opted for the direct drive X-carrige system and matched it up alongside an E3D V6 Volcano hotend, both of them being inexpensive yet good enough for me. I also incorporated a proximity sensor so as to allow automatic bed leveling.
+For the extruder, I selected a direct-drive X-carriage system paired with an E3D V6 Volcano hotend — both affordable and reliable. I also added a proximity sensor to enable automatic bed leveling.
 
-Print size was set to 300×300×350 mm, and this will suit most of the applications that I intend doing with this machine. Control board was chosen as being a BIGTREETECH SKR MINI E3 V3.0 because of proper documentations, an affordable cost, and Klipper compatibility. From local prices, the cost of constructing this machine came to approximately $325 USD.
+- **Print Size:** 300 × 300 × 350 mm  
+- **Control Board:** BIGTREETECH SKR MINI E3 V3.0  
+  - Chosen for: documentation, cost, and Klipper compatibility  
+- **Estimated Total Cost:** ~$325 USD
 
-![part of searching Notes](img/notes.png)
+![Part of Searching Notes](img/notes.png)
 
-7/28/2025
+---
 
-**Time Spent: 3 Hours**
+## 7/28/2025 — Frame Design in Fusion 360  
+**Time Spent:** 3 Hours
 
-I began designing in fusion 360 and it was my first time to use it so the progress like to be delayed. I designed the frame of the 3d printer of the aluminum extrusions with length of 420x640x600 mm I used 2040 aluminum V-slot extrusions for additional rigidity (frame) . I used a combination of corner brackets and T-plates to strengthen the joints, particularly on the X-axis which supports the print head and moves frequently.
+This was my first time using Fusion 360, so progress was initially slow. I designed the printer frame using 2040 aluminum V-slot extrusions for added rigidity, with final dimensions of 420 × 640 × 600 mm.
 
-![frame](img/frame.png)
+I used a combination of corner brackets and T-plates to reinforce joints, especially on the X-axis, which supports the frequently-moving print head.
 
-7/29/2025
+![Frame](img/frame.png)
 
-**Time Spent: 1 Hours**
+---
 
-I designed a custom mechanical endstop triggered by the linear rail carriage, I designed two different ones one for x-axis to control the print head and another one to the y axis for the bed mount.
-I found that the mount bed in egypt is not avaliable with good quality and so expensive so I decided to design it and use acrylic sheet of 4 mm thickness and cut it by the cnc router.
+## 7/29/2025 — Mechanical Endstops & Bed Mount  
+**Time Spent:** 1 Hour
 
-![end stop1](img/endstop1.png)
-![end stop2](img/endstop2.png)
+I designed custom mechanical endstops triggered by the linear rail carriage — one for the X-axis (print head) and one for the Y-axis (bed).
 
-![mount bed](img/mountbed.png)
+Finding quality heated beds in Egypt was difficult and expensive, so I designed my own and used 4 mm acrylic sheets, CNC cut.
 
-7/30/2025
+![Endstop 1](img/endstop1.png)  
+![Endstop 2](img/endstop2.png)  
+![Mount Bed](img/mountbed.png)
 
-**Time Spent: 2 Hours**
+---
 
-I have made the y-axis and added to the mount bed 12 V-wheel and it connected to a belt that is move by motion of the stepper motor. I also added spacers to make the 3d printer stand on it.
+## 7/30/2025 — Y-Axis Assembly  
+**Time Spent:** 2 Hours
 
-![y-axis](img/y_axis.png)
+I completed the Y-axis and added 12 V-wheels to the bed mount, which is connected to a belt driven by a stepper motor. I also added spacers to support the frame and elevate the structure.
 
-7/31/2025
+![Y-Axis](img/y_axis.png)
 
-**Time Spent: 4 Hours**
+---
 
-I also completed the entire Z-axis design using custom 3D-designed plates instead of use of univeral plates and motor aliminuim mounts as it is more expensive and heavier. then optimized for 3D construction, light weight yet with integrity.
+## 7/31/2025 — Z-Axis & Structural Reinforcement  
+**Time Spent:** 4 Hours
 
-There are lead screw and V-slot rails for Z-motion and there is also proper alignment for Z-axis to reduce wobble. The design does accommodate fairly heavy weight of the print head but does not affect the stability.
-there is a side of plates that holds the end stop and the stepper motor that will bring the filament to the print head. the other side just used for the motion.
+I completed the Z-axis design using custom 3D-printed plates instead of universal aluminum mounts, reducing both weight and cost.
 
-![z-axis](img/z_axis.png)
-![left side](img/left_side.png)
+The Z-axis uses a lead screw and V-slot rails, with proper alignment to minimize wobble. Despite supporting the relatively heavy print head, the design remains stable. One plate holds the endstop and stepper motor (which feeds filament), while the opposite side is purely for motion.
 
-![3d printed](img/3d_printed.png)
-![acrlyic parts](img/acrlyic.png)
-
-8/1/2025
-
-**Time Spent: 3 Hours**
-
-I finalized the X-axis and print head assembly. The direct-drive extruder, Volcano hotend, and proximity sensor were mounted. I also added belt clamps and tensioners for the X-axis motion system. Final adjustments ensured correct alignment between the nozzle and the center of the print bed.
-and added a support from the higher point in the extrusions to increase rigidity and durability.
-
-![print head](img/print_head.png)
-
-![Final](img/printer.png)
-
+![Z-Axis](img/z_axis.png)  
+![Left Side](img/left_side.png)  
+![3D Printed Part]()
