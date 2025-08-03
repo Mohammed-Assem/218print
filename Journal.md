@@ -62,10 +62,8 @@ I completed the Z-axis design using custom 3D-printed plates instead of universa
 
 The Z-axis uses a lead screw and V-slot rails, with proper alignment to minimize wobble. Despite supporting the relatively heavy print head, the design remains stable. One plate holds the endstop and stepper motor (which feeds filament), while the opposite side is purely for motion.
 
-![Z-Axis](img/z_axis.png)  
-![Left Side](img/left_side.png)  
-![3D Printed Parts](img/3d_printed.png)  
-![Acrylic Parts](img/acrlyic.png)
+![Z-Axis](img/z_axis.png)   ![Left Side](img/left_side.png)  
+![3D Printed Parts](img/3d_printed.png)   ![Acrylic Parts](img/acrlyic.png)
 
 ---
 
