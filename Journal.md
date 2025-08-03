@@ -64,4 +64,17 @@ The Z-axis uses a lead screw and V-slot rails, with proper alignment to minimize
 
 ![Z-Axis](img/z_axis.png)  
 ![Left Side](img/left_side.png)  
-![3D Printed Part]()
+![3D Printed Parts](img/3d_printed.png)  
+![Acrylic Parts](img/acrlyic.png)
+
+---
+
+## 8/1/2025 — X-Axis & Print Head  
+**Time Spent:** 3 Hours
+
+I finalized the X-axis and print head assembly. The direct-drive extruder, Volcano hotend, and proximity sensor were mounted. I also added belt clamps and tensioners for the X-axis. Final adjustments ensured correct nozzle alignment with the print bed center.
+
+I added a support beam connecting the top of the extrusion frame to increase rigidity and durability.
+
+![Print Head](img/print_head.png)  
+![Final Printer](img/printer.png)
