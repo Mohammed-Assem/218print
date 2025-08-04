@@ -1,5 +1,10 @@
 # 218print journal
 
+title: "218 print"
+author: "Mohamed Assem"
+description: "Simple bedslinger 3D priter designed to be cheap and precise as possible"
+created_at: "2025/27/7"
+
 **Total Time Spent: 19.5 Hours**
 
 ---
