@@ -66,7 +66,7 @@
 | 2 | 6mm M5 Spacer | 5 | £10.00 | 0.21 | [Link](https://ampere-electronics.com/product/aluminum-spacer-5-1x10x6mm/) |
 | 20 | 9mm M5 Spacer | 7 | £140.00 | 2.89 | [Link](https://ampere-electronics.com/product/aluminum-spacer-5-1x10x9mm/) |
 | 350g | 3D Printing Filament (EGP 4/g) | 3 | £1,050.00 | 21.65 | Will print in Flux |
-| 1 | 1/4 Acrylic Sheet | 650 | £650.00 | 13.40 | - |
+| 1 | 1/4 Acrylic Sheet(0.5 m square) | 650 | £650.00 | 13.40 | - |
 
 ---
 
